@@ -1,0 +1,15 @@
+{
+  "appId": "com.saraswathi.tiffins",
+  "appName": "Saraswathi Tiffins",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 2000,
+      "backgroundColor": "#FFFFFF",
+      "showSpinner": false
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Saraswathi Tiffins",
+  "description": "Authentic homemade food delivery app with order management and admin controls.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
